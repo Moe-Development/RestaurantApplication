@@ -35,7 +35,7 @@ public class My_Restaurant extends Application {
     Button removeTable, viewTables, save, add, take;
 
     //labels
-    Label l1, availableTable_header, drinks_header, food_header, drink_Border,food_Border;
+    Label l1, availableTable_header, drinks_header, food_header, drink_Border,food_Border;  
 
     //Text box
     TextField tf;
